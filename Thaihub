@@ -3,4 +3,4 @@ Config = {
     logoscript = "80090038602222",--ID Logo Script
     tacgia = "thaideptrai"-- Tên Tác Giả
 }
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/Min/refs/heads/main/MinSeHub"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tngaming123/vesion/refs/heads/main/scriptbffree.lua")
