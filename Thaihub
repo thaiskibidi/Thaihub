@@ -1,0 +1,6 @@
+Config = {
+    namescript = "Thaihub",--Tên Script
+    logoscript = "80090038602222",--ID Logo Script
+    tacgia = "thaideptrai"-- Tên Tác Giả
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/realredz/BloxFruits/refs/heads/main/Source.lua"))()
